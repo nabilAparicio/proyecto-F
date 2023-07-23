@@ -27,7 +27,7 @@ const TabNavigator = () => {
       <Tab.Screen name="Home" component={Home} />
       <Tab.Screen name="Home1" component={Home} />
       <Tab.Screen name="Home2" component={Home} />
-      <Tab.Screen name="Home3" component={Home} />
+      <Tab.Screen name="Cuestionarios" component={Cuestionarios} />
     </Tab.Navigator>
   );
 };
